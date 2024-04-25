@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "major": {
+    "dependencyDashboardApproval": true
+  },
+  "hostRules": [
+    {
+      "matchHost": "github.com",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//VSonY6ZbKNVt76+HLcNtRwqVJfVjl6AYPqlzykQsTIYBX22zfleuUyN2XmYgy/nu/2OHnzstOXcjlYGH6OM0pasxJz765v0yjLJTpotBFc1KF4D9KsyRVC37jUvgZDvG8X7yYZZehIb+/M4ehdL5HdUrM5IlL7pIbEDucbHR4l8sD2qjjNpX3uFavFIrgS4NoTzGgsCXRqO9+mQ8gPDorTQ6s0UW7Km6aqhUedaXh7eHLIx6yJv3yuHpJlOTWQtEMBwMWLI6b/fvcVlckYxIcT/zzT1FTm4lToOSFFC50Fs/IyS3RCgP9h0c0cyoNAnxewhsR+5RvuvPnyipYc4BbbEJN4XXtQoDOq5jTOOLrbj8AnJ+qhlcq2eIoy0H3LnNaJwdeepaQYkYXk7dEfUf0K3eV3qrCBzF6dB8BXLFqs+UT8QyBxcS/kSHeN5fByoMG515Zp6kOKBJKlMEbLjj+VGZtnRN7bI/vNI2pxP9YQWDIi7giNml1+5vQ4J/3UNLg2t0awym5pZrGb/raqogFuwyMKeNwtqZU2wEGRPTL4tZr+WqCkMD0NJ7RDc+YZC8BD27fCRFaFhIiJeSZuR8pBdv0i5Lp4Ya5nOPX+bNK5UHATtKt7POz5zXMyDvFatVFU8WqkjZx+X4yEtixQXI9hZ0dsZsE/Q3XtyqXODfsOLSgAEj61LyQqAx+PuxkMzYmJekiWKg9ipTipmqJRYMUMHQ9W8wKXzdZ32W/jA8iROlyPJlRcb2XZnrnphAG0sWCusG3pQ1I7Ag3t9u3ghwTzdxHUd6jtIy3F1crf3cO9twALZPrtPkVrUDBunCz9poR2gHHh3h2ZZwg+7/HYLtNuSY"
+      }
+    }
+  ]
+}
