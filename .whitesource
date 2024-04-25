@@ -1,6 +1,0 @@
-{
-  "settingsInheritedFrom": "ReachabilityOrg/whitesource-config@main",
-  "scanSettings": {
-    "enableReachability": true
-  }
-}
